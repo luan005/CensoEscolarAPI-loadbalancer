@@ -38,7 +38,7 @@ server {
   }
 }
 
-## 3.2 No mesmo arquivo, configure os nós dessa forma
+## 3.2 Para cada nó (node1–node5), configure o arquivo desta forma
 server {
   listen 80;
   server_name _;
